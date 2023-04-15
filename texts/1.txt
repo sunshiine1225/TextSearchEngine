@@ -1,0 +1,1 @@
+This is an example text to add to the Weaviate search engine.

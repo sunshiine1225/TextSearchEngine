@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "graphql": "^16.6.0",
+    "graphql-request": "^6.0.0",
     "weaviate-ts-client": "^1.0.0"
   }
 }
